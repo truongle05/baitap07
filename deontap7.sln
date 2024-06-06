@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deontap7", "deontap7\deontap7.csproj", "{7D801547-2A5C-4BF0-B17B-540EBF271B8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D801547-2A5C-4BF0-B17B-540EBF271B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D801547-2A5C-4BF0-B17B-540EBF271B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D801547-2A5C-4BF0-B17B-540EBF271B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D801547-2A5C-4BF0-B17B-540EBF271B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5A42E27-65A8-48CB-9ECC-6246470E3AE5}
+	EndGlobalSection
+EndGlobal
